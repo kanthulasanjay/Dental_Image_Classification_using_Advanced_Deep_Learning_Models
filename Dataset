@@ -1,0 +1,9 @@
+## Dataset
+
+The dataset used in this project is around 2GB in size, so it is not uploaded to GitHub due to file size limitations.
+
+You can download the dataset from the Google Drive link below:
+
+https://drive.google.com/drive/folders/1F8dHfdlJZ1OjgnlVJAZQM6haOTiqKeSW?usp=sharing
+
+After downloading, place the dataset folder inside the project directory before running the notebook.
